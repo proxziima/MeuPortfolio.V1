@@ -1,2 +1,2 @@
 # MeuPortfolio.V1
-Primeira iteração do meu portfolio
+Primeira versão do meu Portfolio feito com HTML + CSS + JS
